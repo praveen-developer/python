@@ -19,7 +19,7 @@ def main():
 
         try:
             #Opens the input file containing the stream of hands in read only mode
-            infile = open('input.txt','r')
+            infile = open('poker-hands.txt','r')
             final = 0
 
             #Reading the file contents line by line
